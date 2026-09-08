@@ -9,12 +9,8 @@ I’m currently learning molecular ab-initio methods, DFT algorithms for materia
 I’m looking to collaborate on developing codes for electronic structure computation, especially many-body or multiscale methods.
 
 ## General languages and Tools
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,linux,vscode,java&theme=light&perline=20)](https://skillicons.dev)
 
-<div align="left">
-
-<p>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/iconsi=python,pytorch,sklearn,git,linux,vscode,java&theme=light&perline=20" alt="Skills" /></a>
-</p>
 
 ## Computational chemistry tools
 
