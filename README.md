@@ -12,12 +12,11 @@ I’m looking to collaborate on developing codes for electronic structure comput
 
 <div align="left">
 
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,linux,vscode,java&theme=light&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,linux,vscode,java&theme=light&perline=20)](https://skillicons.dev)
 
 ## Computational chemistry tools
 
 <div align="left">
-
 <table border="0" cellspacing="6" cellpadding="0">
   <tr>
     <td style="padding:0;line-height:0;">
@@ -40,8 +39,6 @@ I’m looking to collaborate on developing codes for electronic structure comput
       <img src="https://raw.githubusercontent.com/lifengtianjames627-pixel/lifengtianjames627-pixel/main/pymtg.png" width="48" height="48" alt="pymatgen" title="pymatgen"
            style="border-radius:12px;background-color:#000000;display:block;"/>
     </td>
-  </tr>
-  <tr>
     <td style="padding:0;line-height:0;">
       <img src="https://raw.githubusercontent.com/lifengtianjames627-pixel/lifengtianjames627-pixel/main/qe.jpg" width="48" height="48" alt="QE" title="Quantum ESPRESSO"
            style="border-radius:12px;background-color:#ffffff;display:block;"/>
@@ -52,8 +49,8 @@ I’m looking to collaborate on developing codes for electronic structure comput
     </td>
   </tr>
 </table>
-
 </div>
+
 
 Ask me about: theoretical chemistry and machine learning
 
