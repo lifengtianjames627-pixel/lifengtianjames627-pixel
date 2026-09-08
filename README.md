@@ -10,5 +10,10 @@ I’m currently learning molecular ab-initio methods, DFT algorithms for materia
 
 I’m looking to collaborate on developing codes for electronic structure computation, especially many-body or multiscale methods.
 
+# Hi, I'm James
+
+## Languages and Tools
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,linux,vscode,java,pymatgen,icet,ase&theme=dark&perline=5)](https://skillicons.dev)
+
 Ask me about theoretical chem and machine learning.
 How to reach me: email lifengtianjames627@gmail.com
