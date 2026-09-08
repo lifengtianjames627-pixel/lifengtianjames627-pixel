@@ -19,10 +19,6 @@ I’m looking to collaborate on developing codes for electronic structure comput
 
 <div align="left">
 
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,linux,vscode,java&theme=dark&perline=5)](https://skillicons.dev)
-
-<br/>
-
 <table border="0" cellspacing="6" cellpadding="0">
   <tr>
     <td style="padding:0;line-height:0;">
