@@ -26,8 +26,6 @@ I’m looking to collaborate on developing codes for electronic structure comput
 </div>
 
 
-
-
 Ask me about: theoretical chemistry and machine learning
 
 How to reach me: email lifengtianjames627@gmail.com
