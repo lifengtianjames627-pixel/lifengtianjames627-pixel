@@ -6,7 +6,7 @@ I’m currently working on projects related to material informatics.
 
 I’m currently learning molecular ab-initio methods, DFT algorithms for materials and neural networks for hamiltonian engineering & material discovery.
 
-I’m looking to collaborate on developing codes for electronic structure computation, especially many-body or multiscale methods.
+I’m looking to collaborate on codes for electronic structure computation, especially for many-body and multiscale systems.
 
 ## General languages and Tools
 [![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,linux,vscode,java&theme=light&perline=20)](https://skillicons.dev)
