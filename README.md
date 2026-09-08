@@ -25,17 +25,7 @@ I’m looking to collaborate on developing codes for electronic structure comput
   </p>
 </div>
 
-<style>
-  h4 {
-    margin: 18px 0 8px 0;
-    font-size: 16px;
-    font-weight: 600;
-  }
 
-  p {
-    margin: 0 0 18px 0;
-    line-height: 1;
-  }
 
 
 Ask me about: theoretical chemistry and machine learning
