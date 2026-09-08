@@ -15,7 +15,6 @@ I’m looking to collaborate on developing codes for electronic structure comput
 [![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,linux,vscode,java&theme=dark&perline=5)](https://skillicons.dev)
 
 ## Computational chemistry tools
-## Languages and Tools
 
 <div align="left">
 
