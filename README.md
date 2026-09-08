@@ -37,18 +37,6 @@ I’m looking to collaborate on developing codes for electronic structure comput
     line-height: 1;
   }
 
-  img {
-    width: 48px;
-    height: 48px;
-    object-fit: contain;
-    border-radius: 12px;
-    background-color: #ffffff;
-    margin-right: 10px;
-    vertical-align: middle;
-    display: inline-block;
-  }
-</style>
-
 
 Ask me about: theoretical chemistry and machine learning
 
