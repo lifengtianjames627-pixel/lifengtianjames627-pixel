@@ -12,7 +12,7 @@ I’m looking to collaborate on developing codes for electronic structure comput
 
 <div align="left">
 
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,linux,vscode,java&theme=dark&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,linux,vscode,java&theme=light&perline=5)](https://skillicons.dev)
 
 ## Computational chemistry tools
 
