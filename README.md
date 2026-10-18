@@ -2,11 +2,11 @@
 
 Here are some ideas to get you started:
 
-I’m currently working on projects related to material informatics.
+I’m currently working on projects about computationally-driven material design with multiple timescales. My tools include OKMC, MD, DFT, and AIMD methods.
 
-I’m currently learning molecular ab-initio methods, DFT algorithms for materials and neural networks for hamiltonian engineering & material discovery.
+On the theoretical side, I am learning molecular ab-initio methods and planewave DFT methods from basic physical principles.
 
-I’m looking to collaborate on codes for electronic structure computation, especially for many-body and multiscale systems.
+I’m looking to collaborate on codes for electronic structure computation, especially for unique chemical systems that have application values!
 
 ## General languages and Tools
 [![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,linux,vscode,java&theme=light&perline=20)](https://skillicons.dev)
