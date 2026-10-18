@@ -26,13 +26,13 @@ How to reach me: email lifengtianjames627@gmail.com
   
 - VESTA + LAMMPS + MDanalysis + VMD: MD simulation with classical & machine-learned potentials on solid systems
 
-- VESTA + QuantumEspresso + BURAI: solid-level electronic strucutre analysis & visualization
+- VESTA + QuantumEspresso + BURAI: solid-level electronic structure analysis & visualization
 
 2) Informatics
 
-- pymatgen/matminer: material descriptors arithmetics
+- pymatgen/matminer: material descriptors construction & arithmetics
 
-- COD/CCSD/MP/JARVIS: datasets for solid information  
+- COD/CSD/MP/JARVIS: datasets for solid-state material information  
   
 
 
