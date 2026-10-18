@@ -1,12 +1,10 @@
 # Hi, I'm James
 
-Here are some ideas to get you started:
+I work on computationally driven material design across multiple timescales, utilizing OKMC, classical MD, DFT and AIMD.
 
-I’m currently working on projects about computationally-driven material design considering multiple timescales, based on OKMC, MD, DFT, and AIMD methods.
+I study HF and post-HF wfn-based SCF algorithms, alongside plane-wave (PW) and GPW DFT implementations, rooted in fundamental quantum mechanics and solid-state physics.
 
-I am learning GTO ab-initio and PW DFT methods from basic physical principles.
-
-I’m looking forward to collaborating on codes for electronic structure/molecular dynamics computation, especially for unique chemical systems that have application values.
+I am open to collaborations on electronic structure and molecular dynamics code development, particularly for chemically unique systems with practical applications.
 
 ## General languages and Tools
 [![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,linux,vscode,java&theme=light&perline=20)](https://skillicons.dev)
