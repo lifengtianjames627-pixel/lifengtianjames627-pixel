@@ -20,7 +20,7 @@ How to reach me: email lifengtianjames627@gmail.com
 
 - ASE: used for xyz coordinate resolution & chemical environment analysis in molecules/solids
 
-- ATAT & ICEt: used for special quasirandom structure (SQS) generation and cell expansion, especially for high-entropy alloy (HEA) systems
+- ATAT & ICEt: used for special quasirandom structure (SQS) generation and cluser expansion (CE), especially for high-entropy alloy (HEA) systems
 
 - Avogadro + ORCA/PySCF + Multiwfn + IQMOL: molecular-level electronic structure analysis & visualization 
   
