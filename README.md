@@ -1,6 +1,6 @@
 # Hi, I'm James
 
-I work on computationally driven material design across multiple timescales, utilizing OKMC, classical MD, DFT and AIMD.
+I work on computationally driven material design across multiple timescales, utilizing Monte Carlo Methods, classical MD, DFT and AIMD.
 
 I study HF and post-HF wfn-based SCF algorithms, alongside plane-wave (PW) DFT implementations, rooted in fundamental quantum mechanics and solid-state physics.
 
